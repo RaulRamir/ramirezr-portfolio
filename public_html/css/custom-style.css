@@ -31,4 +31,23 @@ h1 {
    margin: 0;
     padding
 }
+#container{
+    width:960px;
+    margin:0px auto;
+}
+
+#left=column{
+    width:700px;
+    float:left;
+    background:silver;
+}
+
+#right=column{
+    width:260px;
+    float:left;
+    background:orange;
+}
+@media screen and (max-width:959px){
+    
+}
 
